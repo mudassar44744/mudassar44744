@@ -47,3 +47,11 @@ I specialize in **Angular, TypeScript, and modern web technologies** — deliver
 </p>
 
 
+I’m open to **freelance projects, remote contracts, and consulting opportunities**.  
+Let’s build scalable, high-performance web applications together.  
+
+- 📧 Email: [mudassarmustafai@outlook.com](mailto:mudassarmustafai@outlook.com)  
+- 💼 LinkedIn: [linkedin.com/in/mudassar-mustafai](https://linkedin.com/in/mudassar-mustafai)  
+- 🧑‍💻 GitHub: [github.com/mudassar-mustafai](https://github.com/mudassar-mustafai)  
+- 🌍 Location: Remote or Onsite Pakistan  
+
