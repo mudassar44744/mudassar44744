@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 
 ### Hi, my name is Mudassar Mustafai
 
+## 💡 About Me
+I’m a **Senior Angular Software Engineer** with **7+ years of experience** building high-performance, interactive, and scalable web applications.  
+I’ve contributed to SaaS platforms generating **$10M+ revenue**, optimized front-end performance by **30%**, and collaborated with global teams across time zones.  
+
+I specialize in **Angular, TypeScript, and modern web technologies** — delivering pixel-perfect, responsive, and fast applications.
+
 ### ✅ &nbsp;Connect with me
 <a href="https://www.linkedin.com/in/mudassar-mustafai-9a9935147/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
